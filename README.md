@@ -11,3 +11,5 @@ Using SSD300 for face detection problem: Check is there any face in the image, i
 <p> - Hardware: Cuda - Nvidia GeForce GTX 3050Ti - Linux Ubuntu<br>
 - Training: 100 epochs, batch_size=8<br>
 - Framework: Pytorch</p>
+
+<p>Threshold is set up at 0.1 (low), use can try another threshold to be suitable with your task</p>
